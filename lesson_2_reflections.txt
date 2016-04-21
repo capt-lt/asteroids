@@ -1,0 +1,2 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+	-Initialiazing a repository creates a .git file in the directory where it is initialized. This allows you to begin tracking files in that directory from that point forward. You must manually add files to be tracked by the repository.
